@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.1)
+  - DynamicBlurView (4.1.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SCLAlertView (0.8)
+  - SwiftConfettiView (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - PopupDialog (~> 1.1)
+  - SCLAlertView
+  - SwiftConfettiView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicBlurView
+    - PopupDialog
+    - SCLAlertView
+    - SwiftConfettiView
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftConfettiView: 1bdbc2e6913b6b1c76d8070802b212508ad5c352
+
+PODFILE CHECKSUM: d9a32f6b4ea5b310a040709b0e91c25c025f057d
+
+COCOAPODS: 1.11.2
